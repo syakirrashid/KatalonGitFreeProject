@@ -31,3 +31,5 @@ WebUI.click(findTestObject('Object Repository/Page_Swag Labs/button_About_react-
 
 WebUI.click(findTestObject('Object Repository/Page_Swag Labs/a_About_logout_sidebar_link'))
 
+WebUI.closeBrowser()
+
